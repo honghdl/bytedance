@@ -1,0 +1,1 @@
+'use strict';require('adapter-min.js');__globalAdapter['init']();require('cocos/cocos2d-js-min.js');require('physics-min.js');__globalAdapter['adaptEngine']();require('./ccRequire');require('./src/settings');require('./main');cc['view']['_maxPixelRatio']=0x4;if(cc['sys']['platform']!==cc['sys']['BYTEDANCE_GAME_SUB']){cc['macro']['CLEANUP_IMAGE_CACHE']=!![];}window['boot']();
