@@ -1,0 +1,139 @@
+
+heidongicon.png
+size: 210,731
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+di
+  rotate: true
+  xy: 12, 109
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+e_0
+  rotate: true
+  xy: 118, 23
+  size: 22, 23
+  orig: 58, 60
+  offset: 7, 13
+  index: -1
+e_1
+  rotate: true
+  xy: 118, 55
+  size: 30, 38
+  orig: 58, 60
+  offset: 9, 10
+  index: -1
+e_2
+  rotate: false
+  xy: 168, 53
+  size: 27, 32
+  orig: 58, 60
+  offset: 19, 12
+  index: -1
+e_3
+  rotate: true
+  xy: 123, 95
+  size: 40, 49
+  orig: 58, 60
+  offset: 10, 6
+  index: -1
+e_4
+  rotate: false
+  xy: 138, 582
+  size: 49, 43
+  orig: 58, 60
+  offset: 2, 6
+  index: -1
+e_5
+  rotate: false
+  xy: 141, 635
+  size: 50, 49
+  orig: 58, 60
+  offset: 3, 7
+  index: -1
+fx206_0001
+  rotate: true
+  xy: 12, 656
+  size: 65, 117
+  orig: 75, 125
+  offset: 5, 5
+  index: -1
+fx206_0002
+  rotate: true
+  xy: 12, 430
+  size: 66, 109
+  orig: 75, 125
+  offset: 5, 8
+  index: -1
+fx206_0003
+  rotate: false
+  xy: 132, 230
+  size: 63, 106
+  orig: 75, 125
+  offset: 7, 10
+  index: -1
+fx206_0004
+  rotate: false
+  xy: 136, 465
+  size: 62, 107
+  orig: 75, 125
+  offset: 7, 10
+  index: -1
+fx206_0005
+  rotate: false
+  xy: 133, 346
+  size: 63, 109
+  orig: 75, 125
+  offset: 7, 8
+  index: -1
+fx206_0006
+  rotate: true
+  xy: 12, 582
+  size: 64, 114
+  orig: 75, 125
+  offset: 6, 6
+  index: -1
+fx206_0007
+  rotate: true
+  xy: 12, 506
+  size: 66, 112
+  orig: 75, 125
+  offset: 5, 6
+  index: -1
+gq
+  rotate: true
+  xy: 12, 206
+  size: 97, 99
+  orig: 100, 102
+  offset: 2, 1
+  index: -1
+huan
+  rotate: false
+  xy: 123, 145
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+juanxin (2)
+  rotate: false
+  xy: 12, 10
+  size: 94, 89
+  orig: 100, 93
+  offset: 6, 0
+  index: -1
+xi2
+  rotate: true
+  xy: 12, 313
+  size: 107, 108
+  orig: 109, 110
+  offset: 1, 2
+  index: -1
+zi
+  rotate: false
+  xy: 141, 694
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1

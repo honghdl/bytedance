@@ -1,0 +1,41 @@
+
+bt-xingongneng.png
+size: 903,415
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huode-1
+  rotate: false
+  xy: 2, 30
+  size: 543, 109
+  orig: 594, 109
+  offset: 51, 0
+  index: -1
+huode-2
+  rotate: false
+  xy: 2, 141
+  size: 650, 272
+  orig: 720, 332
+  offset: 39, 33
+  index: -1
+tiao
+  rotate: true
+  xy: 2, 2
+  size: 26, 340
+  orig: 26, 350
+  offset: 0, 3
+  index: -1
+xing
+  rotate: false
+  xy: 547, 94
+  size: 38, 45
+  orig: 40, 53
+  offset: 1, 4
+  index: -1
+组 2
+  rotate: true
+  xy: 654, 5
+  size: 408, 247
+  orig: 408, 247
+  offset: 0, 0
+  index: -1

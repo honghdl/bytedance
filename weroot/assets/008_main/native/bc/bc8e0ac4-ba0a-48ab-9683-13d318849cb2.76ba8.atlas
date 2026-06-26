@@ -1,0 +1,83 @@
+
+txz-icon.png
+size: 225,532
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+di
+  rotate: true
+  xy: 117, 10
+  size: 94, 95
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+yan01
+  rotate: true
+  xy: 12, 17
+  size: 87, 93
+  orig: 122, 122
+  offset: 12, 12
+  index: -1
+yan02
+  rotate: true
+  xy: 115, 114
+  size: 86, 97
+  orig: 122, 122
+  offset: 14, 9
+  index: -1
+yan03
+  rotate: true
+  xy: 12, 305
+  size: 82, 94
+  orig: 122, 122
+  offset: 20, 9
+  index: -1
+yan04
+  rotate: true
+  xy: 12, 115
+  size: 85, 91
+  orig: 122, 122
+  offset: 18, 10
+  index: -1
+yan05
+  rotate: true
+  xy: 12, 211
+  size: 84, 89
+  orig: 122, 122
+  offset: 17, 12
+  index: -1
+yan06
+  rotate: true
+  xy: 12, 397
+  size: 80, 91
+  orig: 122, 122
+  offset: 17, 12
+  index: -1
+yan07
+  rotate: true
+  xy: 118, 305
+  size: 82, 90
+  orig: 122, 122
+  offset: 14, 14
+  index: -1
+yan08
+  rotate: true
+  xy: 113, 210
+  size: 85, 90
+  orig: 122, 122
+  offset: 13, 15
+  index: -1
+zheng
+  rotate: true
+  xy: 115, 397
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 12, 487
+  size: 132, 35
+  orig: 133, 41
+  offset: 0, 3
+  index: -1

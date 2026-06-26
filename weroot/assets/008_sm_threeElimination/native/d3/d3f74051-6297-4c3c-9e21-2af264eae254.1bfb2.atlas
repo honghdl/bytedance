@@ -1,0 +1,174 @@
+
+xiaoshi.png
+size: 1139,586
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fk_00001
+  rotate: false
+  xy: 1021, 375
+  size: 67, 103
+  orig: 176, 360
+  offset: 12, 105
+  index: -1
+fk_00002
+  rotate: true
+  xy: 916, 488
+  size: 88, 130
+  orig: 176, 360
+  offset: 13, 99
+  index: -1
+fk_00003
+  rotate: true
+  xy: 700, 10
+  size: 119, 241
+  orig: 176, 360
+  offset: 15, 6
+  index: -1
+fk_00004
+  rotate: true
+  xy: 651, 453
+  size: 123, 253
+  orig: 176, 360
+  offset: 18, 13
+  index: -1
+fk_00005
+  rotate: true
+  xy: 594, 139
+  size: 126, 262
+  orig: 176, 360
+  offset: 21, 22
+  index: -1
+fk_00006
+  rotate: true
+  xy: 311, 136
+  size: 127, 271
+  orig: 176, 360
+  offset: 24, 30
+  index: -1
+fk_00007
+  rotate: false
+  xy: 168, 290
+  size: 130, 286
+  orig: 176, 360
+  offset: 25, 33
+  index: -1
+fk_00008
+  rotate: true
+  xy: 12, 125
+  size: 138, 287
+  orig: 176, 360
+  offset: 20, 47
+  index: -1
+fk_00009
+  rotate: false
+  xy: 12, 273
+  size: 144, 303
+  orig: 176, 360
+  offset: 17, 39
+  index: -1
+fk_00010
+  rotate: false
+  xy: 310, 342
+  size: 156, 234
+  orig: 176, 360
+  offset: 8, 48
+  index: -1
+fk_00011
+  rotate: false
+  xy: 478, 353
+  size: 161, 223
+  orig: 176, 360
+  offset: 4, 33
+  index: -1
+g
+  rotate: true
+  xy: 464, 15
+  size: 111, 224
+  orig: 125, 233
+  offset: 7, 5
+  index: -1
+gaung
+  rotate: true
+  xy: 868, 142
+  size: 139, 223
+  orig: 143, 231
+  offset: 2, 4
+  index: -1
+tiao_00001
+  rotate: true
+  xy: 230, 18
+  size: 10, 127
+  orig: 98, 257
+  offset: 0, 28
+  index: -1
+tiao_00002
+  rotate: true
+  xy: 953, 11
+  size: 24, 134
+  orig: 98, 257
+  offset: 0, 63
+  index: -1
+tiao_00003
+  rotate: true
+  xy: 863, 369
+  size: 74, 146
+  orig: 98, 257
+  offset: 0, 92
+  index: -1
+tiao_00004
+  rotate: true
+  xy: 548, 275
+  size: 68, 208
+  orig: 98, 257
+  offset: 6, 46
+  index: -1
+tiao_00005
+  rotate: true
+  xy: 310, 273
+  size: 59, 226
+  orig: 98, 257
+  offset: 15, 31
+  index: -1
+tiao_00006
+  rotate: true
+  xy: 955, 295
+  size: 64, 130
+  orig: 98, 257
+  offset: 0, 56
+  index: -1
+tiao_00007
+  rotate: true
+  xy: 651, 366
+  size: 77, 200
+  orig: 98, 257
+  offset: 0, 22
+  index: -1
+tiao_00008
+  rotate: true
+  xy: 230, 38
+  size: 77, 222
+  orig: 98, 257
+  offset: 0, 0
+  index: -1
+tiao_00009
+  rotate: true
+  xy: 768, 291
+  size: 65, 175
+  orig: 98, 257
+  offset: 24, 41
+  index: -1
+tiao_00010
+  rotate: true
+  xy: 953, 45
+  size: 87, 174
+  orig: 98, 257
+  offset: 2, 83
+  index: -1
+tiao_00011
+  rotate: true
+  xy: 12, 19
+  size: 96, 206
+  orig: 98, 257
+  offset: 2, 33
+  index: -1

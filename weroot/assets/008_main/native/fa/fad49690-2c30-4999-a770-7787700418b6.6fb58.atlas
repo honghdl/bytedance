@@ -1,0 +1,146 @@
+
+baoxiang.png
+size: 1190,1063
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang1
+  rotate: true
+  xy: 837, 746
+  size: 307, 172
+  orig: 307, 172
+  offset: 0, 0
+  index: -1
+baoxiang2
+  rotate: true
+  xy: 700, 96
+  size: 325, 173
+  orig: 325, 173
+  offset: 0, 0
+  index: -1
+baoxiang3
+  rotate: true
+  xy: 668, 740
+  size: 313, 157
+  orig: 313, 157
+  offset: 0, 0
+  index: -1
+fk_09
+  rotate: false
+  xy: 1037, 52
+  size: 141, 181
+  orig: 177, 284
+  offset: 15, 42
+  index: -1
+fk_10
+  rotate: false
+  xy: 885, 40
+  size: 140, 184
+  orig: 177, 284
+  offset: 15, 50
+  index: -1
+fk_11
+  rotate: false
+  xy: 1029, 243
+  size: 140, 241
+  orig: 177, 284
+  offset: 15, 4
+  index: -1
+fk_12
+  rotate: false
+  xy: 834, 486
+  size: 138, 244
+  orig: 177, 284
+  offset: 16, 12
+  index: -1
+fk_13
+  rotate: false
+  xy: 885, 234
+  size: 132, 242
+  orig: 177, 284
+  offset: 17, 24
+  index: -1
+fk_14
+  rotate: false
+  xy: 1021, 817
+  size: 132, 236
+  orig: 177, 284
+  offset: 17, 34
+  index: -1
+fk_15
+  rotate: false
+  xy: 984, 494
+  size: 130, 242
+  orig: 177, 284
+  offset: 18, 41
+  index: -1
+fk_16
+  rotate: false
+  xy: 708, 437
+  size: 114, 186
+  orig: 177, 284
+  offset: 19, 47
+  index: -1
+fk_17
+  rotate: false
+  xy: 583, 431
+  size: 113, 189
+  orig: 177, 284
+  offset: 20, 54
+  index: -1
+fk_18
+  rotate: false
+  xy: 463, 429
+  size: 108, 191
+  orig: 177, 284
+  offset: 24, 61
+  index: -1
+fk_19
+  rotate: false
+  xy: 344, 427
+  size: 107, 193
+  orig: 177, 284
+  offset: 25, 68
+  index: -1
+fk_20
+  rotate: true
+  xy: 700, 10
+  size: 76, 142
+  orig: 177, 284
+  offset: 49, 115
+  index: -1
+lizi
+  rotate: true
+  xy: 344, 630
+  size: 423, 312
+  orig: 423, 314
+  offset: 0, 0
+  index: -1
+sanguang
+  rotate: true
+  xy: 12, 402
+  size: 651, 320
+  orig: 711, 347
+  offset: 26, 11
+  index: -1
+xiangguang
+  rotate: true
+  xy: 381, 16
+  size: 401, 307
+  orig: 401, 307
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 668, 633
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+zhuanguang
+  rotate: false
+  xy: 12, 31
+  size: 357, 361
+  orig: 364, 367
+  offset: 4, 3
+  index: -1

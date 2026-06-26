@@ -1,0 +1,90 @@
+
+nan-zheng.png
+size: 503,293
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shen
+  rotate: false
+  xy: 86, 99
+  size: 132, 184
+  orig: 132, 184
+  offset: 0, 0
+  index: -1
+shou1-1
+  rotate: true
+  xy: 409, 44
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+shou1-2
+  rotate: true
+  xy: 386, 112
+  size: 38, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1
+shou1-3
+  rotate: true
+  xy: 313, 101
+  size: 49, 61
+  orig: 51, 63
+  offset: 1, 1
+  index: -1
+shou2-1
+  rotate: false
+  xy: 86, 10
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+shou2-2
+  rotate: true
+  xy: 230, 99
+  size: 35, 71
+  orig: 35, 71
+  offset: 0, 0
+  index: -1
+shou2-3
+  rotate: true
+  xy: 12, 27
+  size: 256, 62
+  orig: 258, 64
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 171, 13
+  size: 76, 98
+  orig: 78, 100
+  offset: 1, 1
+  index: -1
+tui1-1
+  rotate: false
+  xy: 395, 164
+  size: 96, 119
+  orig: 96, 119
+  offset: 0, 0
+  index: -1
+tui1-2
+  rotate: false
+  xy: 230, 144
+  size: 66, 139
+  orig: 66, 139
+  offset: 0, 0
+  index: -1
+tui2-1
+  rotate: true
+  xy: 281, 18
+  size: 71, 116
+  orig: 71, 116
+  offset: 0, 0
+  index: -1
+tui2-2
+  rotate: false
+  xy: 308, 160
+  size: 75, 123
+  orig: 75, 123
+  offset: 0, 0
+  index: -1

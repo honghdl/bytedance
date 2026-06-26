@@ -1,0 +1,104 @@
+
+juese.png
+size: 364,156
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dun
+  rotate: true
+  xy: 90, 120
+  size: 26, 114
+  orig: 28, 115
+  offset: 1, 1
+  index: -1
+shen
+  rotate: false
+  xy: 12, 54
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+shou1-1
+  rotate: true
+  xy: 217, 10
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+shou1-2
+  rotate: true
+  xy: 267, 29
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+shou1-3
+  rotate: false
+  xy: 316, 68
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+shou2-1
+  rotate: false
+  xy: 267, 58
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+shou2-2
+  rotate: true
+  xy: 316, 40
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 166, 14
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: false
+  xy: 217, 49
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+tui1-1
+  rotate: true
+  xy: 94, 16
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+tui1-2
+  rotate: true
+  xy: 12, 11
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+tui2-1
+  rotate: true
+  xy: 290, 110
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+tui2-2
+  rotate: true
+  xy: 216, 108
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 90, 74
+  size: 100, 36
+  orig: 100, 36
+  offset: 0, 0
+  index: -1

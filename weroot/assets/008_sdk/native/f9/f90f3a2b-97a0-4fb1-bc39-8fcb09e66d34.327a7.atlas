@@ -1,0 +1,55 @@
+
+rkyl.png
+size: 171,239
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+g
+  rotate: true
+  xy: 113, 118
+  size: 8, 39
+  orig: 8, 39
+  offset: 0, 0
+  index: -1
+icon-rkyj1
+  rotate: false
+  xy: 12, 105
+  size: 89, 27
+  orig: 89, 27
+  offset: 0, 0
+  index: -1
+icon-rkyj2
+  rotate: true
+  xy: 123, 136
+  size: 25, 28
+  orig: 26, 30
+  offset: 0, 1
+  index: -1
+icon-rkyj3
+  rotate: true
+  xy: 123, 171
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+icon-rkyj4
+  rotate: true
+  xy: 109, 25
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+icon-rkyj5
+  rotate: false
+  xy: 12, 10
+  size: 85, 85
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+icon-tjyl-di
+  rotate: true
+  xy: 12, 142
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1

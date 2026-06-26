@@ -1,0 +1,41 @@
+
+tjyl.png
+size: 255,119
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+icon-tjyl-di
+  rotate: false
+  xy: 12, 10
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+icon-tjyl1
+  rotate: false
+  xy: 111, 10
+  size: 92, 28
+  orig: 92, 28
+  offset: 0, 0
+  index: -1
+icon-tjyl2
+  rotate: false
+  xy: 187, 48
+  size: 26, 27
+  orig: 30, 31
+  offset: 2, 2
+  index: -1
+icon-tjyl3
+  rotate: false
+  xy: 187, 85
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1
+icon-tjyl4
+  rotate: false
+  xy: 111, 48
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+1jcjs.png
+size: 237,120
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st
+  rotate: false
+  xy: 125, 15
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 12, 10
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 161, 83
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+ys
+  rotate: true
+  xy: 125, 59
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+yt
+  rotate: false
+  xy: 180, 45
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 180, 14
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+zt
+  rotate: true
+  xy: 200, 87
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1

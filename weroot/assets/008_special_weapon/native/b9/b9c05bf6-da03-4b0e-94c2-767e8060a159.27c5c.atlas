@@ -1,0 +1,118 @@
+
+heidongzs.png
+size: 1431,480
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1-idle_0
+  rotate: true
+  xy: 1370, 375
+  size: 30, 44
+  orig: 36, 47
+  offset: 4, 2
+  index: -1
+10-idle_00
+  rotate: false
+  xy: 1370, 415
+  size: 49, 55
+  orig: 60, 64
+  offset: 5, 5
+  index: -1
+4-idle_0
+  rotate: false
+  xy: 1370, 308
+  size: 43, 57
+  orig: 61, 70
+  offset: 9, 6
+  index: -1
+8-idle_0
+  rotate: true
+  xy: 1370, 266
+  size: 32, 42
+  orig: 42, 51
+  offset: 5, 4
+  index: -1
+heidong4_00
+  rotate: true
+  xy: 692, 10
+  size: 199, 200
+  orig: 322, 303
+  offset: 64, 49
+  index: -1
+heidong4_01
+  rotate: true
+  xy: 904, 16
+  size: 198, 245
+  orig: 322, 303
+  offset: 63, 58
+  index: -1
+heidong4_02
+  rotate: false
+  xy: 223, 217
+  size: 221, 253
+  orig: 322, 303
+  offset: 44, 49
+  index: -1
+heidong4_03
+  rotate: true
+  xy: 452, 16
+  size: 191, 228
+  orig: 322, 303
+  offset: 69, 59
+  index: -1
+heidong4_04
+  rotate: true
+  xy: 712, 224
+  size: 246, 205
+  orig: 322, 303
+  offset: 16, 50
+  index: -1
+heidong4_05
+  rotate: true
+  xy: 1170, 248
+  size: 222, 188
+  orig: 322, 303
+  offset: 39, 57
+  index: -1
+heidong4_06
+  rotate: false
+  xy: 1161, 10
+  size: 229, 221
+  orig: 322, 303
+  offset: 64, 28
+  index: -1
+heidong4_07
+  rotate: true
+  xy: 456, 219
+  size: 251, 244
+  orig: 322, 303
+  offset: 71, 1
+  index: -1
+heidong4_08
+  rotate: false
+  xy: 929, 241
+  size: 229, 229
+  orig: 322, 303
+  offset: 64, 20
+  index: -1
+heidong4_09
+  rotate: false
+  xy: 250, 15
+  size: 190, 192
+  orig: 322, 303
+  offset: 71, 53
+  index: -1
+heidong4_10
+  rotate: true
+  xy: 12, 208
+  size: 262, 199
+  orig: 322, 303
+  offset: 1, 50
+  index: -1
+heidong4_11
+  rotate: false
+  xy: 12, 10
+  size: 226, 188
+  orig: 322, 303
+  offset: 35, 57
+  index: -1

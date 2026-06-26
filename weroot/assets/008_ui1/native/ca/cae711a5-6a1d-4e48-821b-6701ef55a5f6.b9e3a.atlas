@@ -1,0 +1,48 @@
+
+wq-icon.png
+size: 358,158
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+18-dianjv4
+  rotate: false
+  xy: 261, 82
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 162, 49
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 266, 44
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+g
+  rotate: true
+  xy: 266, 27
+  size: 7, 42
+  orig: 7, 42
+  offset: 0, 0
+  index: -1
+xg
+  rotate: false
+  xy: 12, 10
+  size: 138, 138
+  orig: 144, 144
+  offset: 2, 4
+  index: -1
+zi
+  rotate: false
+  xy: 162, 11
+  size: 92, 28
+  orig: 92, 28
+  offset: 0, 0
+  index: -1
